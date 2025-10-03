@@ -1,15 +1,15 @@
 
 <h1 align="left">Thomas Ezequiel Fernández</h1>
-
+<br><br>
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br>
+
 <p>Soy desarrollador con experiencia en AngularJS, HTML5, MySQL, Spring Boot, C y Java, además de manejar controladores de versiones como Git y GitHub. Me apasiona el desarrollo de software, la resolución de problemas y el aprendizaje continuo, buscando siempre mejorar mis habilidades y contribuir en proyectos que generen valor.</p>
-<br>
 
 
 
 
+<br><br>
 <h2 align="left">My Skills</h2>
  <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
  <p align="center"> 
