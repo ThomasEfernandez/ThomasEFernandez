@@ -1,12 +1,13 @@
 
 <h1 align="left">Thomas Ezequiel Fernández</h1>
-<br><br>
+<br>
 
 <h2 align="left"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me</h2>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<p>Soy desarrollador con experiencia en AngularJS, HTML5, MySQL, Spring Boot, C y Java, además de manejar controladores de versiones como Git y GitHub. Me apasiona el desarrollo de software, la resolución de problemas y el aprendizaje continuo, buscando siempre mejorar mis habilidades y contribuir en proyectos que generen valor.</p>
+<p>Técnico Universitario en Programación, egresado de la Universidad Tecnológica Nacional, con orientación al desarrollo web. Recibí formación en el proceso formal de desarrollo de software, integrando buenas prácticas y principios estructurados, junto con la implementación de metodologías ágiles para lograr un desarrollo eficiente y colaborativo.
+ Cuento con bases sólidas en JavaScript, Java, C y MySQL, y he colaborado en el liderazgo y desarrollo de aplicaciones, incluyendo el control de versiones con Git.</p>
 
 
 
